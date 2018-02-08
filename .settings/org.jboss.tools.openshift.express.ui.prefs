@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+org.jboss.tools.openshift.ApplicationId=56ca113e2d527175f7000188
+org.jboss.tools.openshift.ApplicationName=api
+org.jboss.tools.openshift.Connection=https\://clinic.2016.lelasoft%40gmail.com@
+org.jboss.tools.openshift.DeployFolder=deployments
+org.jboss.tools.openshift.Domain=clinic2016
+org.jboss.tools.openshift.RemoteName=origin
